@@ -43,7 +43,7 @@
     font-size: larger;
     font-weight: bold;
     color:black;
-    background-image:url(../../image/planet/marback.avif);
+    background-image:url("planet/marsbac.jpg");
     overflow-y: scroll;
     margin-right: 30px;
     margin: 20px;
